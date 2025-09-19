@@ -1,31 +1,5 @@
-# СГУ КНИТ Курс 2
-
-## Программирования на языке java
-
-# Лабораторная работа № 0
-
-#### Цель работы:
-
-- Подготовить Java проект для выполнения заданий
-- Научиться отводить свой branch
-- Познакомиться с правилами сдачи и оформления заданий
-
-**Выполните задание по предоставленной ниже инструкции:**
-
-#### Шаг 1
-Создайте аккаунт если еще не создан в https://github.com/
-и войдите в систему github.
-
-#### Шаг 2
-Перейдите по ссылке https://github.com/shaforr/kniit и сделайте fork репозитория.
-
-[Подробнее про работу с git](https://habr.com/ru/companies/yandex_praktikum/articles/700708/)
-
-#### Шаг 4
-Установите IDE
-https://www.jetbrains.com/idea/download/
-
-####  Шаг 5
-Откройте скачанный проект
-
-### Лабораторные работы и задачи будут находиться в директории `labs`   
+# Программирование на языке Java
+## Ссылки на лабораторные работы
+1) [Лабораторная работа №1](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab1)
+	- [Задание №1](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab1/task1)
+	- [Задание №2](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab1/task2)
