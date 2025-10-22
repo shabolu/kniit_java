@@ -5,3 +5,4 @@
 	- [Задание №2](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab1/task2)
 2) [Лабораторная работа №2](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab2)
 	- [Задание №3](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab2/task3)
+	- [Задание №4](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab2/task4)
