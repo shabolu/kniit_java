@@ -2,7 +2,7 @@ package solutions.lab1.task2;
 
 public class Main {
     public static void main(String[] args) {
-        String url = "https://test.ru/test/1072/page.jsp?intParam=12345&doubleParam=3.14&textParameter=someText";
+        String url = "https://test.ru/test/1072/pagejsp?intParam=12345&doubleParam=3.14&textParameter=someText";
 
         SimpleUrl simpleUrl = new SimpleUrl();
 
@@ -29,11 +29,14 @@ public class Main {
         int questionMarkIndex = url.indexOf("?");
         String webPage = url.substring(lastSlashIndex + 1, questionMarkIndex);
         
-        int webPageDotIndex = webPage.indexOf(".");
-        String webPageName = webPage.substring(0, webPageDotIndex);
-        String webPageExtension = webPage.substring(webPageDotIndex + 1);
-        simpleUrl.setWebpageName(webPageName);
-        simpleUrl.setWebPageExtension(webPageExtension);
+        String[] webPageSplitted = webPage.split("\\.");
+        if (webPageSplitted.length > 1) {
+            System.out.println(webPageSplitted[0] + webPageSplitted[1]);
+            simpleUrl.setWebpageName(webPageSplitted[0]);
+            simpleUrl.setWebPageExtension(webPageSplitted[1]);
+        } else {
+            simpleUrl.setWebpageName(webPage);
+        }
 
         // параметры
         String paramsString = url.substring(questionMarkIndex + 1);
