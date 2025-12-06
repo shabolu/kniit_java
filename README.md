@@ -11,3 +11,4 @@
 4) [Лабораторная работа №4](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab4)
 5) [Лабораторная работа №5](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab5)
 	- [Задание №8](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab5/task8)
+	- [Задание №9](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab5/task9)
