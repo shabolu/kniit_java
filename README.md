@@ -31,3 +31,4 @@
 	- [Задание №23](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab10/task23)
 11) [Лабораторная работа №11](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab11)
 	- [Задание №24](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab11/task24)
+	- [Задание №25](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab11/task25)
