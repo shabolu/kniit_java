@@ -28,3 +28,4 @@
 	- [Задание №20](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab10/task20)
 	- [Задание №21](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab10/task21)
 	- [Задание №22](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab10/task22)
+	- [Задание №23](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab10/task23)
