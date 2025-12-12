@@ -14,24 +14,16 @@ public class Main {
             String choice = scanner.nextLine();
 
             switch (choice) {
-                case "1":
-                    addStudent(students, scanner);
-                    break;
-                case "2":
-                    removeStudent(students, scanner);
-                    break;
-                case "3":
-                    showAllStudents(students);
-                    break;
-                case "4":
-                    findStudent(students, scanner);
-                    break;
-                case "5":
+                case "1" -> addStudent(students, scanner);
+                case "2" -> removeStudent(students, scanner);
+                case "3" -> showAllStudents(students);
+                case "4" -> findStudent(students, scanner);
+                case "5" -> {
                     System.out.println("Выход из программы...");
                     scanner.close();
                     return;
-                default:
-                    System.out.println("Неверная команда. Попробуйте снова.");
+                }
+                default -> System.out.println("Неверная команда. Попробуйте снова.");
             }
             System.out.println();
         }

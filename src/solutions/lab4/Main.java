@@ -59,7 +59,7 @@ public class Main {
                 System.out.println("Ничего не найдено.");
             } else {
                 System.out.println("Найдено слов: " + subWords.size());
-                // Выводим слова через запятую
+                
                 System.out.println(String.join(", ", subWords));
             }
             System.out.println();
