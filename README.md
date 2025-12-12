@@ -20,3 +20,4 @@
 9) [Лабораторная работа №9](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab9)
 	- [Задание №14](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab9/task14)
 	- [Задание №15](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab9/task15)
+	- [Задание №16](https://github.com/shabolu/kniit_java/tree/main/src/solutions/lab9/task16)
